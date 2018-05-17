@@ -1,0 +1,28 @@
+.main {
+  min-height: 100vh;
+  background: linear-gradient(to right, #3f5efb, #fc466b);
+}
+.row {
+  margin-bottom: 0;
+}
+a {
+  color: inherit;
+}
+a:hover {
+  cursor: pointer;
+}
+
+h5 {
+  display: inline-block;
+}
+
+#toast-container {
+  top: auto !important;
+  right: auto !important;
+  bottom: 10%;
+  left: 45%;
+}
+
+.pb-1 {
+  padding-bottom: 1rem !important;
+}
